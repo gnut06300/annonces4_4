@@ -6,6 +6,6 @@
 	<title>Document</title>
 </head>
 <body>
-	test je suis sur la branche 2 <a href="new1.php">nouveau fichier</a>
+	test je suis sur la branche 2
 </body>
 </html>
